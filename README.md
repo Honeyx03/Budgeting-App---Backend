@@ -44,12 +44,6 @@ The backend server for Budgtr is built using Express.js, providing a RESTful API
 ### Deployment
 Make sure to deploy your backend server to a web hosting service (e.g., Heroku) to make the API accessible online. Include the deployed backend URL in your front-end code to connect the two parts of your application.
 
-### Links
-* Frontend GitHub Repository
-* Frontend Deployed URL
-* Backend GitHub Repository
-* Backend Deployed URL
-* Trello Board
   
 ## Getting Started
 To run the backend server locally, follow these steps:
